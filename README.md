@@ -19,7 +19,7 @@ $ git clone https://github.com/hhtcamigla/HackNews.git
 ```
 
 ## iOS Setup
-Open Terminal App and navigate to the project's root folder and run `yarn` or `npm install` to install the necessary modules libraries
+Open Terminal App and navigate to the project's root folder and run `yarn` or `npm install` to install the necessary module libraries
 
 ###### yarn
  
